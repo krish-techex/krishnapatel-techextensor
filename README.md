@@ -46,9 +46,6 @@
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="net" width="40" height="40"/> 
   </a>
  
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter" width="70" height="40"/> 
-  </a>
   
   
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
@@ -59,8 +56,14 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>     
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+   </a>     
   
+   
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter" width="70" height="40"/> 
+  </a>
   <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin" width="70" height="40"/> 
   </a>
